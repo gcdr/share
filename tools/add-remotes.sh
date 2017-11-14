@@ -45,6 +45,7 @@ case "$1" in
   foo sqlline bpoweski
   foo sqlline fineo-io
   foo sqlline mmattozzi
+  foo sqlline mprudhom
   ;;
 
 (mondrian)
@@ -72,6 +73,7 @@ case "$1" in
   git remote add ledem git@github.com:julienledem/calcite.git
 
   #foo calcite aertoria incubator-calcite
+  foo calcite alexeyroytman
   foo calcite aleph-zero incubator-calcite
   foo calcite amansinha100 incubator-calcite
   foo calcite amihalik
@@ -94,6 +96,7 @@ case "$1" in
   foo calcite ch33hau
   foo calcite d4nc00per incubator-calcite
   foo calcite darionyaphet
+  foo calcite datametica
   foo calcite devth incubator-calcite
   foo calcite dianfu
   foo calcite dingguitao incubator-calcite
@@ -133,7 +136,9 @@ case "$1" in
   foo calcite Kyligence
   foo calcite lalinsky incubator-calcite
   foo calcite laurentgo
+  foo calcite LeoWangLZ
   foo calcite Lerm
+  foo calcite lfkpoa
   foo calcite mapr incubator-calcite
   foo calcite markap14
   foo calcite maryannxue
@@ -164,6 +169,7 @@ case "$1" in
   foo calcite suez1224
   foo calcite tedxu
   foo calcite tmostak
+  foo calcite twalthr incubator-calcite
   foo calcite tzolov
   foo calcite VcamX
   foo calcite vineetgarg02
